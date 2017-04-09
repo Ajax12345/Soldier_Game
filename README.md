@@ -1,0 +1,2 @@
+# Soldier_Game
+This game is a strategy-based tactical game that allows users to perform a variety of story-themed missions all over a virtuall world. As of 4/9/17, development is still underway for most of the game maps, however, users can still play the very first mission. This repository stores the current game user log and score files for demonstration purposes. When new users register, their names are written to a main file for login purposes and an individual score sheet generated.
